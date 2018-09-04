@@ -1,9 +1,9 @@
 # Neural Network exercise
 This repository have the data and the code used to create a neural network to predict the slope and intercept.
 
-THe prediction on the tast data can be found in the file 'submission.csv'.
+The prediction on the tast data can be found in the file 'submission.csv'.
 
-To run the neural network, all the libraries in the first cell must be installed.
+To run the neural network ('lr_inter.ipynb' file), all the libraries in the first cell must be installed.
 
 The neural network use 10 points in the x-axis and their corresponding in the y-axis along with slope and intercept for this set of points to learn the best way to do a regression. In the training data we can see 100,000 rows with those 10 set of points used to train the network. 
 Therefore, to use this neural network to predict the slope and intercept in any data, we need to enter 10 set of points (x and y pairs) and the predicted slope and intercept can be saved in a csv file as shown in the last cell of the notebook.
