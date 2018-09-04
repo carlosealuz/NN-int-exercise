@@ -1,4 +1,4 @@
-# NN-int-exercise
+# Neural Network exercise
 This repository have the data and the code used to create a neural network to predict the slope and intercept.
 
 THe prediction on the tast data can be found in the file 'submission.csv'.
