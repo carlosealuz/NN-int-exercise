@@ -1,7 +1,7 @@
 # Neural Network exercise
 This repository have the data and the code used to create a neural network to predict the slope and intercept.
 
-The prediction on the tast data can be found in the file 'submission.csv'.
+The prediction on the test data can be found in the file 'submission.csv'.
 
 To run the neural network ('lr_inter.ipynb' file), all the libraries in the first cell must be installed.
 
